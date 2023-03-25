@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "alphahull"]
+	path = alphahull
+	url = https://github.com/cran/alphahull
+	shallow = true
+	registered = true
+[submodule "alphashape3d"]
+	path = alphashape3d
+	url = https://github.com/cran/alphashape3d
+	shallow = true
+	registered = true
