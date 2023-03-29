@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "alphahull"]
 	path = alphahull
-	url = https://github.com/cran/alphahull
+	url = https://github.com/beatrizpateiro/alphahull
 	shallow = true
 	registered = true
 [submodule "alphashape3d"]
